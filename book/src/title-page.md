@@ -6,8 +6,6 @@ Welcome to DevSoc's Training Program Exercises! This is a resource created by De
 
 This site features a selection of guides and exercises intended for 2024 DevSoc Trainees and were made to go along with concurrent workshops. However you are welcome to use this for our own self learning.
 
-<!-- TODO: possibly add "Who is this for?" "How to use" -->
-
 ## Disclaimer
 
 While we try our best, we still may make mistakes here and there. If you spot any issues, mistakes or typos on this page fee free to create a [pull request](https://github.com/TAS-scorchedshadow/training-program-exercises/pulls) with the corrections or mention it in an [issue](https://github.com/TAS-scorchedshadow/training-program-exercises/issues).
