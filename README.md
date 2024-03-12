@@ -19,7 +19,7 @@ Before continuing please ensure that you have the following installed on your ma
 Clone this repository:
 
 ```sh
-$ git clone https://github.com/TAS-scorchedshadow/training-program-exercises.git
+git clone https://github.com/TAS-scorchedshadow/training-program-exercises.git
 ```
 
 Explore all the exercise on offer on our [Guide](https://tas-scorchedshadow.github.io/training-program-exercises/book).
@@ -35,13 +35,13 @@ When adding a new exercise
 Please check that the book will render properly by running the following command in the root directory:
 
 ```sh
-$ mdbook build book --open
+mdbook build book --open
 ```
 
 If the book has been updated correctly a new webpage will open in your browser. You will need to have `mdbook` installed which can be done by following the [installation documentation](https://rust-lang.github.io/mdBook/guide/installation.html#installing-the-latest-master-version).
 
-Alternatively you can use the `serve` command, which will build your book and start a local webserver:
+Alternatively you can use the `serve` command, which will build your book and start a local web server:
 
 ```sh
-$ mdbook serve --open
+mdbook serve book --open
 ```
