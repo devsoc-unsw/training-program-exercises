@@ -1,6 +1,6 @@
 # DevSoc Training Program Exercises
 
-_by Dylan Huynh and Nicole Chun with contributions from the [DevSoc community](../../contributors.md)_
+_by Dylan Huynh and Nicole Chun with contributions from the [DevSoc community](https://github.com/TAS-scorchedshadow/training-program-exercises/blob/main/contributors.md)_
 
 Welcome to DevSoc's Training Program Exercises! This is a resource created by DevSoc volunteers for the Training Program to inspire and assist novice programmers gain basic web development skill in HTML/CSS, JavaScript and React.
 
