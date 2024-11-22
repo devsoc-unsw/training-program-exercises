@@ -2,6 +2,11 @@
 
 Special thanks to everyone who has helped create and improve this resource. In no particular order:
 
+## 2025 Team
+Training Program Directors
+- [Add your names here]
+
+## 2024 Team
 Training Program Directors
 
 - Dylan Huynh
