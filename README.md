@@ -19,7 +19,7 @@ Before continuing please ensure that you have the following installed on your ma
 Clone this repository:
 
 ```sh
-git clone https://github.com/TAS-scorchedshadow/training-program-exercises.git
+git clone https://github.com/devsoc-unsw/training-program-exercises.git
 ```
 
 Explore all the exercise on offer on our [Guide](https://tas-scorchedshadow.github.io/training-program-exercises/book).
