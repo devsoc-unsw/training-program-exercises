@@ -7,7 +7,7 @@
 
 # 🏔️ Training Program Exercises
 
-This repository contains a selection of exercises intended for 2024 DevSoc Trainees. The exercises aim to develop basic web development skills, in HTML/CSS/JS and React.
+This repository contains a selection of exercises intended for 2025 DevSoc Trainees. The exercises aim to develop basic web development skills, in HTML/CSS/JS and React.
 
 ## Getting Started
 

@@ -4,7 +4,15 @@ Special thanks to everyone who has helped create and improve this resource. In n
 
 ## 2025 Team
 Training Program Directors
-- [Add your names here]
+- Eve Miles
+- Lachlan Shoesmith
+- Khye Jac Low
+
+Training Program Subcom
+- Giselle Putri
+- Alyssa Cheong
+- Kim Lam
+- Alfie chen
 
 ## 2024 Team
 Training Program Directors
