@@ -12,7 +12,7 @@ Training Program Subcom
 - Giselle Putri
 - Alyssa Cheong
 - Kim Lam
-- Alfie chen
+- Alfie Chen
 
 ## 2024 Team
 Training Program Directors
