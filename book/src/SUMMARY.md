@@ -10,3 +10,5 @@
   - [Installing Git, Node, NVM](01_getting-started/installation.md)
   - [(Optional) Additional Tools](01_getting-started/optional_extras.md)
 - [Figma](02_figma/index.md)
+- [Intro to React](03_intro-react/index.md)
+- [Further React](04_further-react/index.md)
