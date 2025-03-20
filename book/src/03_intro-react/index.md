@@ -1,4 +1,4 @@
-# Figma
+# Intro to React
 
 ## Presentation Slides
 **Authors: Alyssa Cheong & Giselle Putri | [Link to slides](https://www.canva.com/design/DAGg9E5TJSA/Ewax_jT81t8lqPaMTkc3Cg/edit) | [Link to repository](https://github.com/devsoc-unsw/devsoc-mail/tree/ws2/components)** 
