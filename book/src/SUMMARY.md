@@ -12,3 +12,5 @@
 - [Figma](02_figma/index.md)
 - [Intro to React](03_intro-react/index.md)
 - [Further React](04_further-react/index.md)
+- [CSS & Tailwind](05_css/index.md)
+- [Backend & Linking to Frontend](06_backend/index.md)

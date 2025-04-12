@@ -1,7 +1,7 @@
 # Further React
 
 ## Presentation Slides
-**Authors: Lachlan Shoesmith | [Link to slides](https://www.canva.com/design/DAGSm5IgDSU/fRVbxTekEvoKCxAcG6VWCg/edit) | [Link to demo repo](https://github.com/lachlanshoesmith/hookie-monster) | [Link to exercise repo](https://github.com/devsoc-unsw/devsoc-mail/tree/ws3/react)**
+**Authors: Lachlan Shoesmith | [Link to slides](https://www.canva.com/design/DAGSm5IgDSU/fRVbxTekEvoKCxAcG6VWCg/edit) | [Link to demo repo](https://github.com/lachlanshoesmith/hookie-monster) | [Link to exercise repo](https://github.com/devsoc-unsw/devsoc-mail/tree/ws3/react) | [Exercise solutions](https://github.com/devsoc-unsw/devsoc-mail/tree/ws3/react-solved)**
 
 Activities are in the README.md file in the exercise repo.
 
