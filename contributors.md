@@ -4,7 +4,7 @@ Special thanks to everyone who has helped create and improve this resource. In n
 
 ## 2025 Team
 Training Program Directors
-- Eve Miles
+- Ray Miles
 - Lachlan Shoesmith
 - Khye Jac Low
 

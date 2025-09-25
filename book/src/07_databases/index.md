@@ -1,7 +1,7 @@
 # Databases with MongoDB
 
 ## Presentation Slides
-**Authors: Alfie Chen, Kim Lam & Eve Miles | [Link to slides](https://www.canva.com/design/DAGkDIjxxFM/BrQm0eYJn5NleVJweq6ZLg/edit) | [Link to exercise repo](https://github.com/devsoc-unsw/devsoc-mail/tree/ws6/databases-exercises)**
+**Authors: Alfie Chen, Kim Lam & Ray Miles | [Link to slides](https://www.canva.com/design/DAGkDIjxxFM/BrQm0eYJn5NleVJweq6ZLg/edit) | [Link to exercise repo](https://github.com/devsoc-unsw/devsoc-mail/tree/ws6/databases-exercises)**
 
 Activities are in the README.md file in the exercise repo.
 

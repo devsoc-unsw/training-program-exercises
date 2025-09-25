@@ -1,7 +1,7 @@
 # Figma
 
 ## Presentation Slides
-**Authors: Eve Miles | [Link to slides](https://docs.google.com/presentation/d/1hWmlld_wJo1dz0MYi-Eu-fXYuhBDJUlbE49po6zOqZw/edit?usp=sharing) | [Link to live demo](https://www.figma.com/design/EJsuhpD74tZ3wsYQeLFutr/Week-1-Figma-Workshop?node-id=0-1&t=nosHsi2iRbSlXzq7-1)**
+**Authors: Ray Miles | [Link to slides](https://docs.google.com/presentation/d/1hWmlld_wJo1dz0MYi-Eu-fXYuhBDJUlbE49po6zOqZw/edit?usp=sharing) | [Link to live demo](https://www.figma.com/design/EJsuhpD74tZ3wsYQeLFutr/Week-1-Figma-Workshop?node-id=0-1&t=nosHsi2iRbSlXzq7-1)**
 
 Activities are on slide 26.
 
