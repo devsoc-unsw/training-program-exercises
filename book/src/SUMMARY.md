@@ -18,3 +18,5 @@
   - [Databases](07_databases/index.md)
 - [EXTRA WORKSHOPS](00_titles/extra.md)
   - [Authentication](08_extra/authentication.md)
+  - [Deployment](08_extra/deploying.md)
+  - [Webscraping](08_extra/webscraping.md)

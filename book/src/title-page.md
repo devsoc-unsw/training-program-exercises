@@ -1,6 +1,6 @@
 # DevSoc Training Program Exercises
 
-_by Training Program Directors with contributions from the [DevSoc community](https://github.com/devsoc-unsw/training-program-exercises/blob/main/contributors.md)_
+_by Training Program Directors & Subcommittee Members with contributions from the [DevSoc community](https://github.com/devsoc-unsw/training-program-exercises/blob/main/contributors.md)_
 
 Welcome to DevSoc's Training Program Exercises! This is a resource created by DevSoc volunteers for the Training Program to inspire and assist novice programmers gain basic web development skill in HTML/CSS, JavaScript and React.
 

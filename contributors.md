@@ -1,6 +1,6 @@
 # Contributors
 
-Special thanks to everyone who has helped create and improve this resource. In no particular order:
+Special thanks to our team and everyone who has helped create and improve this resource. In no particular order:
 
 ## 2025 Team
 Training Program Directors
@@ -13,15 +13,17 @@ Training Program Subcom
 - Alyssa Cheong
 - Kim Lam
 - Alfie Chen
+- Christopher Casolin
+- Aryaman Sakthivel
+- Danny Zhang
+- Jenny Liu
 
 ## 2024 Team
 Training Program Directors
-
 - Dylan Huynh
 - Nicole Chun
 
 Training Program Helpers
-
 - Michael Vo
 - Hanyuan Li
 - Christian Lam
@@ -29,7 +31,6 @@ Training Program Helpers
 - Alex Lee
 
 Other Contributors
-
 - Jeremy Le
 - Merry Rosalie
 - Daniel Huynh
